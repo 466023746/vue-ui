@@ -1,0 +1,36 @@
+.ct-font {
+    font-family: 'sqfont' !important;
+    font-size: 14px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    vertical-align: baseline;
+    display: inline-block;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    &.icn-guanbi {
+
+        &--editor {
+            position: absolute;
+            top: -13px;
+            right: -13px;
+            font-size: 28px;
+            color: #ccc;
+            z-index: 9;
+            text-decoration: none;
+            background: #fff;
+            border-radius: 100%;
+            cursor: pointer;
+
+            &:hover {
+                color: #333;
+            }
+        }
+    }
+}

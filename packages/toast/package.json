@@ -1,0 +1,12 @@
+{
+  "name": "@kaola-kol/ct-toast",
+  "version": "2.10.0",
+  "files": [
+    "src",
+    "index.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "@kaola-kol/ct-util": "^2.10.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@kaola-kol/ct-scrollload",
+  "version": "2.11.1",
+  "files": [
+    "src",
+    "index.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
